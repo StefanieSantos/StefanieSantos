@@ -1,10 +1,9 @@
-##Ola! Eu sou a Stefanie, mas pode me chamar de Stef 🎈
+#Ola! Eu sou a Stefanie, mas pode me chamar de Stef 🎈
 
-- 🌱
- <div align="center">
+- 🌱 Desenvolvedora Front-end
+ <div align="center" style>
   <a href="https://github.com/StefanieSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StefanieSantos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanieSantos&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
  
  <div style="display: inline_block"><br>
