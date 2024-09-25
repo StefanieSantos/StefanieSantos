@@ -1,6 +1,6 @@
 #Ola! Eu sou a Stefanie, mas pode me chamar de Stef 🎈
 
-- 🌱 Desenvolvedora Front-end
+- 🌱 Data Steward
  <div align="center" style>
   <a href="https://github.com/StefanieSantos">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StefanieSantos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
